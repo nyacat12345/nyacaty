@@ -1,2 +1,4 @@
-function yes(info)
+
+function amogus()
+	print('a')
 end
