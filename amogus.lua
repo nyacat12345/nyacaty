@@ -1,4 +1,1 @@
-
-function amogus()
-	print('a')
-end
+print('a')
