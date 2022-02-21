@@ -1,1 +1,3 @@
-aaa
+function yes(info)
+print(info)
+end
