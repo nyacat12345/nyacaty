@@ -1,3 +1,3 @@
 function yes(info)
-print(info)
+return print(info)
 end
